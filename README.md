@@ -29,3 +29,6 @@ As *data analysts*, we will try to answer the following questions:
 ## Needs of this project
 - data exploration/descriptive statistics
 - data processing/cleaning
+
+## Tableau Story
+- https://public.tableau.com/app/profile/hilmy.sonaji/viz/CP-2_Purwadhika/Story1?publish=yes
